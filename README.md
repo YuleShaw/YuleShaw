@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-dark.png" alt="Yue Xiao | Yule Shaw" width="100%" />
+  <img src="./assets/banner-dark.png" alt="Yule Shaw" width="100%" />
 </p>
 
 <h1 align="center">Yule Shaw</h1>
