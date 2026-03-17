@@ -2,7 +2,7 @@
   <img src="./assets/banner-dark.png" alt="Yue Xiao | Yule Shaw" width="100%" />
 </p>
 
-<h1 align="center">Yue Xiao / Yule Shaw</h1>
+<h1 align="center">Yule Shaw</h1>
 
 <p align="center">
   Founder-builder focused on cloud infrastructure, fintech systems, and AI-assisted product development.
@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://moin.host">
-    <img src="https://img.shields.io/badge/Moin.Host-111827?style=flat&logo=icloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Moin.Cash-111827?style=flat&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://moin.cash">
+    <img src="https://img.shields.io/badge/Moin.Cash-111827?style=flat&logo=icloud&logoColor=white" />
   </a>
   <a href="mailto:qiutanglanyue@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -149,9 +149,9 @@ I prefer systems that are:
 ## Connect
 
 <p>
+  <a href="https://moin.cash">Product</a> /
   <a href="https://moin.host">Product</a> /
   <a href="mailto:qiutanglanyue@gmail.com">Email</a> /
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> /
   <a href="https://github.com/YuleShaw">GitHub</a>
 </p>
 
