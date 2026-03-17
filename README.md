@@ -20,9 +20,9 @@
 
 | Project | Role | Tech Stack Highlights |
 | :--- | :--- | :--- |
-| **[MoinCash](https://moin.cash)** | **Founder / Lead** | Next.js 16 (Turbopack), Supabase, Framer Motion, Cobe 3D |
-| **[MoinHost](https://moin.host)** | **Architect** | Next.js 16, Tailwind v4, Cloudflare Hyperdrive, Drizzle ORM |
-| **MoinGroupAdmin** | **Tech Lead** | Refine, Ant Design, @xyflow/react (Flow Chart), Better Auth |
+| **[MoinCash](https://moin.cash)** | **Founder/CEO** | Next.js 16 (Turbopack), Supabase, Framer Motion, Cobe 3D |
+| **[MoinHost](https://moin.host)** | **Founder/CTO** | Next.js 16, Tailwind v4, Cloudflare Hyperdrive, Drizzle ORM |
+| **MoinGroupAdmin** | **Founder** | Refine, Ant Design, @xyflow/react (Flow Chart), Better Auth |
 
 ---
 
