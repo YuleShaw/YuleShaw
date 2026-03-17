@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://moin.host">
-    <img src="https://img.shields.io/badge/Moin.Cash-111827?style=flat&logo=icloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Moin.Host-111827?style=flat&logo=icloud&logoColor=white" />
   </a>
   <a href="https://moin.cash">
     <img src="https://img.shields.io/badge/Moin.Cash-111827?style=flat&logo=icloud&logoColor=white" />
